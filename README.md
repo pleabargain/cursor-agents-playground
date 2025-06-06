@@ -5,6 +5,14 @@ This project demonstrates the creation of a GitHub repository using cursor agent
 
 ## Project Overview
 
+## video
+https://youtu.be/2fFqN8mBdy0
+
+## screenshot
+![Image](https://github.com/user-attachments/assets/cd9f6987-7d1f-4567-a4cb-6614f3f1fffd)
+
+
+
 **Target:** GitHub repository "cursor-agents-playground"
 **Purpose:** Testing cursor agents and their capabilities
 **Status:** ✅ Completed
